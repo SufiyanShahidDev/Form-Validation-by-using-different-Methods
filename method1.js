@@ -1,6 +1,5 @@
 const submitBtn = document.getElementById("submitBtn");
 
-
 function submitData() {
     let username = document.getElementById("username").value.trim();
     let email = document.getElementById("email").value.trim();
